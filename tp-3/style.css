@@ -1,0 +1,28 @@
+.titulo {
+    text-align: center;
+}
+
+#contenedor p {
+    font-family: serif;
+}
+    
+#primer-parrafo.importante {
+    background-color: #cee;
+}
+
+#primer-parrafo em {
+    color: #933;
+}
+
+#contenedor a, p a {
+    outline: 1px solid #333;
+}
+
+p.fuente.parrafo:nth-of-type(1) {
+    opacity: 100%;
+    text-shadow: none;
+}
+
+.novelas.parrafo {
+    text-shadow: none;
+}
